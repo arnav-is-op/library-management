@@ -4,7 +4,8 @@ A simple book bank management website for college library
 
 A simple and elegant **Library Management System** built using **HTML, CSS, and JavaScript**. This project allows users to manage a virtual collection of books – with the ability to add, view, and remove books from a dynamic list.
 
-🌐 **Live Demo**: (https://arnav-is-op.github.io/library-management/)
+🌐 **Live Demo**:(https://github.com/arnav-is-op/library-management)
+    ** REPO LINK**:(https://arnav-is-op.github.io/library-management/)
 
 ---
 
