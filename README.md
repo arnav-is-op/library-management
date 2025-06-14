@@ -24,5 +24,8 @@ A simple and elegant **Library Management System** built using **HTML, CSS, and 
 - **Storage**: Local Storage API (no backend)
 
 ---
+## 👨‍💻 Author
+
+Arnav Heerakar
 
 
